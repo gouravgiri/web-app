@@ -166,7 +166,7 @@ if uploaded_file is  not None:
             a = cola.radio('Plot type:',['Line','Scatter', 'Histogram', 'Cross-plot'])
             if a == 'Line':
                 curves = colb.multiselect('Select Curves To Plot', columns , key="multiselect1")
-                # LG= colc.multiselect('Log plot of:',columns, key="multiselect2")
+                LG= colc.multiselect('Log plot of:',columns, key="multiselect2")
                 
                 if len(curves) <= 1:
                     st.warning('Please select at least 2 curves.')
