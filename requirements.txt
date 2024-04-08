@@ -1,4 +1,1 @@
-lasio==0.22.1
-plotly.subplots==0.1.0
-plotly.graph_objects==0.18.2
-plotly.express==0.4.1
+lasio
