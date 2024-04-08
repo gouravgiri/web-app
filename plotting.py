@@ -1,4 +1,4 @@
-!pip install lasio
+pip install lasio
 import streamlit as st
 import pandas as pd
 import lasio
