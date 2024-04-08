@@ -1,2 +1,3 @@
 lasio
 plotly
+matplotlib
