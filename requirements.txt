@@ -2,3 +2,4 @@ lasio
 plotly
 matplotlib
 missingno
+pygwalker
