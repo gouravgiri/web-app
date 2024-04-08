@@ -1,3 +1,4 @@
 lasio
 plotly
 matplotlib
+missingno
